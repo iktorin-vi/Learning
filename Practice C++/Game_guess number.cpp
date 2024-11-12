@@ -33,4 +33,4 @@ int main() {
 
     cout << "Дякуємо за гру!" << endl;
     return 0;
-}
+}sss
